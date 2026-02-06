@@ -769,25 +769,25 @@ ATT.Category = {"wtt_scorpion_charge"}
 
 ARC9.LoadAttachment(ATT, "wtt_scorpion_ch_std")
 
--- ///////////////////////////////////////      wtt_scorpion_ch_delta
+///////////////////////////////////////      wtt_scorpion_ch_delta
 
--- ATT = {}
+ATT = {}
 
--- ATT.PrintName = "HB Industries CZ Scorpion EVO 3 DELTA extended charging handle"
--- ATT.CompactName = "Delta"
--- ATT.Icon = Material("entities/wtt_scorpion_attachments/ch_delta.png", "mips smooth")
--- ATT.Description = [[Extended charging handle for the CZ Scorpion EVO 3 platform, manufactured by HB Industries.]]
+ATT.PrintName = "HB Industries CZ Scorpion EVO 3 DELTA extended charging handle"
+ATT.CompactName = "Delta"
+ATT.Icon = Material("entities/wtt_scorpion_attachments/deltab.png", "mips smooth")
+ATT.Description = [[Extended charging handle for the CZ Scorpion EVO 3 platform, manufactured by HB Industries.]]
 
--- ATT.SortOrder = 0
--- ATT.MenuCategory = "ARC9 - EFT Attachments"
--- ATT.HasBolt = true
+ATT.SortOrder = 0
+ATT.MenuCategory = "ARC9 - EFT Attachments"
+ATT.HasBolt = true
 
--- ATT.EFTErgoAdd = 3.5
--- ATT.CustomPros = { Ergonomics = "+3.5" }
+ATT.EFTErgoAdd = 3.5
+ATT.CustomPros = { Ergonomics = "+3.5" }
 
--- ATT.Category = {"wtt_scorpion_charge"}
+ATT.Category = {"wtt_scorpion_charge"}
 
--- ARC9.LoadAttachment(ATT, "wtt_scorpion_ch_delta")
+ARC9.LoadAttachment(ATT, "wtt_scorpion_ch_delta")
 
 ///////////////////////////////////////      wtt_scorpion_ch_deltared
 

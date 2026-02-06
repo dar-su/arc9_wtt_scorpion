@@ -866,7 +866,7 @@ SWEP.AttachmentElements = {
 
     ["wtt_scorpion_ch_std"] = { Bodygroups = { {1, 1} } },
     ["wtt_scorpion_ch_deltared"] = { Bodygroups = { {1, 2} } },
-    -- ["wtt_scorpion_ch_delta"] = { Bodygroups = { {1, 4} } },    
+    ["wtt_scorpion_ch_delta"] = { Bodygroups = { {1, 4} } },    
     ["wtt_scorpion_ch_pro"] = { Bodygroups = { {1, 3} } },
 }
 
